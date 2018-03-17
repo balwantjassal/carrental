@@ -21,7 +21,7 @@ public class CarrideFirm {
 				book1.bookingDetails();
 				
 				book2.bookingDetails();
-				System.out.println("*****************Booking Details Ends**************************");
+				System.out.println("*****************Booking Details Ride Firm Ends**************************");
 				break;
 		default:
 				System.out.println("Invalid Entry");
